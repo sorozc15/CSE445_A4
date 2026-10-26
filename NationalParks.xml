@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NationalParks>
+  <NationalPark Rating="4.8">
+    <Name>Saguaro National Park</Name>
+    <Phone>520-733-5153</Phone>
+    <Address NearestAirport="Tucson International Aiport">
+      <Number>3693</Number>
+      <Street>S. Old Spanish Trail</Street>
+      <City>Tucson</City>
+      <State>AZ</State>
+      <Zip>85730</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Petrified Forest National Park</Name>
+    <Phone>928-524-6228</Phone>
+    <Address NearestAirport="Flagstaff Pulliam Airport">
+      <Number>1</Number>
+      <Street>Park Rd</Street>
+      <City>Petrified Forest</City>
+      <State>AZ</State>
+      <Zip>86028</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark Rating="4.8">
+    <Name>YellowStone National Park</Name>
+    <Phone>307-344-7381</Phone>
+    <Phone>888-653-0009</Phone>
+    <Address NearestAirport="Yellowstone Airport">
+      <Number>2</Number>
+      <Street>Officers Row</Street>
+      <City>Yellowstone National Park</City>
+      <State>WY</State>
+      <Zip>82190-0168</Zip>
+    </Address>
+  </NationalPark>
+<NationalPark>
+	<Name>Grand Canyon National Park</Name>
+	<Phone>928-638-7888</Phone>
+	<Phone>928-638-7779</Phone>
+	<Address NearestAirport="Grand Canyon National Park Airport">
+		<Number>20</Number>
+		<Street>South Entrance Road</Street>
+		<City>Grand Canyon</City>
+		<State>AZ</State>
+		<Zip>86023</Zip>
+	</Address>
+</NationalPark>
+<NationalPark Rating="4.8">
+	<Name>Yosemite National Park</Name>
+	<Phone>209-372-0200</Phone>
+	<Address NearestAirport="Fresno Yosemite International Airport">
+		<Number>6108</Number>
+		<Street>Big Oak Flat Rd</Street>
+		<City>Groveland</City>
+		<State>CA</State>
+		<Zip>95321</Zip>
+	</Address>
+</NationalPark>
+<NationalPark Rating="4.8">
+	<Name>White Sands National Park</Name>
+	<Phone>575-479-6124</Phone>
+	<Address NearestAirport="El Paso International Airport">
+		<Number>19955</Number>
+		<Street>Highway 70 West</Street>
+		<City>Alamogordo</City>
+		<State>NM</State>
+		<Zip>88310</Zip>
+	</Address>
+</NationalPark>
+<NationalPark>
+	<Name>Arches National Park</Name>
+	<Phone>435-719-2299</Phone>
+	<Address NearestAirport="Cayonlands Field Airport">
+		<Number>0</Number>
+		<Street>Arches Entrance Rd</Street>
+		<City>Moab</City>
+		<State>UT</State>
+		<Zip>84532</Zip>
+	</Address>
+</NationalPark>
+<NationalPark>
+	<Name>Zion National Park</Name>
+	<Phone>435-772-3256</Phone>
+	<Address NearestAirport="St. George Regional Airport">
+		<Number>1</Number>
+		<Street>Zion Park Blvd</Street>
+		<City>Springdale</City>
+		<State>UT</State>
+		<Zip>84767</Zip>
+	</Address>
+</NationalPark>
+<NationalPark Rating="4.8">
+	<Name>Black Canyon of the Gunnison National Park</Name>
+	<Phone>970-641-2337</Phone>
+	<Address NearestAirport="Montrose Regional Airport">
+		<Number>9800</Number>
+		<Street>Highway 347</Street>
+		<City>Montrose</City>
+		<State>CO</State>
+		<Zip>81401</Zip>
+	</Address>
+</NationalPark>
+<NationalPark Rating="4.7">
+	<Name>Hot Springs National Park</Name>
+	<Phone>501-620-6715</Phone>
+	<Address NearestAirport="Hot Springs Memorial Field Airport">
+		<Number>101</Number>
+		<Street>Reserve Street</Street>
+		<City>Hot Springs</City>
+		<State>AR</State>
+		<Zip>71901</Zip>
+	</Address>
+</NationalPark>
+</NationalParks>
