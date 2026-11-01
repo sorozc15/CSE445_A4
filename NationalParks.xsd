@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <xs:schema xmlns:xs="http://w3.org"
-           targetNamespace="https://github.io"
-           xmlns="https://github.io"
+           targetNamespace="https://sorozc15.github.io/CSE445_A4/NationalParks"
+           xmlns="https://sorozc15.github.io/CSE445_A4/NationalParks"
            elementFormDefault="qualified">
 	<xs:element name="NationalParks" type="NationalParksType"/>
 	<xs:complexType name="NationalParksType">	
