@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NationalParks 
-    xmlns="https://sorozc15.github.io/CSE445_A4/NationalParks"
-    xmlns:xsi="http://w3.org"
-    xsi:schemaLocation="https://sorozc15.github.io/CSE445_A4/NationalParks https://sorozc15.github.io/CSE445_A4/NationalParks.xsd">
+    xmlns="https://sorozc15.github.io/CSE445_A4/NationalParks.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://sorozc15.github.io/CSE445_A4/NationalParks.xsd">
   <NationalPark Rating="4.8">
     <Name>Saguaro National Park</Name>
     <Phone>520-733-5153</Phone>
